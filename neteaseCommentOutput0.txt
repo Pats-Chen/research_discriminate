@@ -1,0 +1,1167 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width,initial-scale=1" name="viewport"/>
+  <title>
+   复苏的母亲河丨让黄河永远造福中华民族_网易跟贴
+  </title>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="网易跟贴" name="keywords"/>
+  <meta content="网易跟贴" name="description"/>
+  <link href="//www.163.com/favicon.ico" rel="icon" type="image/x-icon"/>
+  <link href="//www.163.com/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+  <script>
+   !function(){"use strict";!function(a,r,o){a.corona_error_cache=function(r){a.corona_error_cache.data.push(r)},a.corona_error_cache.data=[];var t=a[r];a[r]=function(r,o,n,e,c){a.corona_error_cache({e:c,event:"error"}),t&&t.apply(a,arguments)};var n=a[o];a[o]=function(r){a.corona_error_cache({e:r.reason,event:"unhandledrejection"}),n&&n.apply(a,arguments)}}(window,"onerror","onunhandledrejection")}();
+  </script>
+  <script>
+   !function(e,n,t,s,c){var r=void 0!==t&&t.resolve,a=e[s];(a=e[s]=function(){this.modules={}}).callbacks=[],a.ready=r?function(){return a.instance?t.resolve(a.instance.vars()):new t(function(e){return a.callbacks.push(e)})}:function(e){return a.instance?e(a.instance.vars()):a.callbacks.push(e)};var i=n.createElement(c),u=n.getElementsByTagName(c)[0];i.async=!0,i.src="https://s6.music.126.net/puzzle/puzzle@004F2E.js",u.parentNode.insertBefore(i,u)}(window,document,window.Promise,"puzzle","script");
+  </script>
+  <!--[if lte IE 9]>
+    <div class="low-ie">
+      <p>您使用的浏览器版本过低，请升级</p>
+      <p class="advc">建议使用浏览器：
+        <a href="http://www.chromeliulanqi.com/">谷歌浏览器</a>
+        <a href="http://www.firefox.com.cn/download/">火狐浏览器</a>
+      </p>
+    </div>
+    <script src="//static.ws.126.net/utf8/tie/static/20180517/seeker.min.js"></script>
+    <script>
+    window.seeker(document.body).addCls('z-low-ie');
+    </script>
+    <style>
+      body.z-low-ie > * {
+        display: none;
+      }
+      body.z-low-ie > .low-ie {
+        display: block;
+      }
+    </style>
+    <![endif]-->
+  <link href="//static.ws.126.net/163/f2e/tie/pc_detail/tie.23b802cfc19e24c18bf1.css" rel="stylesheet"/>
+ </head>
+ <body>
+  <div class="nav-bar">
+   <link href="https://static.ws.126.net/163/f2e/commonnav2019/css/commonnav_headcss-fad753559b.css" rel="stylesheet">
+    <!-- urs -->
+    <script _keep="true" src="https://urswebzj.nosdn.127.net/webzj_cdn101/message.js" type="text/javascript">
+    </script>
+    <div class="ntes_nav_wrap" id="js_N_NTES_wrap">
+     <div class="ntes-nav" id="js_N_nav">
+      <div class="ntes-nav-main clearfix">
+       <div class="c-fl" id="js_N_nav_left">
+        <a class="ntes-nav-index-title ntes-nav-entry-wide c-fl" href="https://www.163.com/" title="网易首页">
+         网易首页
+        </a>
+        <!-- 应用 -->
+        <div class="js_N_navSelect ntes-nav-select ntes-nav-select-wide ntes-nav-app c-fl">
+         <a class="ntes-nav-select-title ntes-nav-entry-bgblack JS_NTES_LOG_FE" href="https://www.163.com/#f=topnav">
+          应用
+          <em class="ntes-nav-select-arr">
+          </em>
+         </a>
+         <div class="ntes-nav-select-pop">
+          <ul class="ntes-nav-select-list clearfix">
+           <li>
+            <a href="https://m.163.com/newsapp/#f=topnav">
+             <span>
+              <em class="ntes-nav-app-newsapp">
+               网易新闻
+              </em>
+             </span>
+            </a>
+           </li>
+           <li>
+            <a href="https://open.163.com/#f=topnav">
+             <span>
+              <em class="ntes-nav-app-open">
+               网易公开课
+              </em>
+             </span>
+            </a>
+           </li>
+           <li>
+            <a href="https://daxue.163.com/offline/download.html">
+             <span>
+              <em class="ntes-nav-app-gaokaozhiyuan">
+               网易高考智愿
+              </em>
+             </span>
+            </a>
+           </li>
+           <li>
+            <a href="https://hongcai.163.com/?from=pcsy-button">
+             <span>
+              <em class="ntes-nav-app-hongcai">
+               网易红彩
+              </em>
+             </span>
+            </a>
+           </li>
+           <li>
+            <a href="https://u.163.com/aosoutbdbd8">
+             <span>
+              <em class="ntes-nav-app-yanxuan">
+               网易严选
+              </em>
+             </span>
+            </a>
+           </li>
+           <li>
+            <a href="https://mail.163.com/client/dl.html?from=mail46">
+             <span>
+              <em class="ntes-nav-app-mail">
+               邮箱大师
+              </em>
+             </span>
+            </a>
+           </li>
+           <li class="last">
+            <a href="https://study.163.com/client/download.htm?from=163app&amp;utm_source=163.com&amp;utm_medium=web_app&amp;utm_campaign=business">
+             <span>
+              <em class="ntes-nav-app-study">
+               网易云课堂
+              </em>
+             </span>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+       <div class="c-fr">
+        <!-- 片段开始 -->
+        <div class="ntes-nav-quick-navigation">
+         <a class="ntes-nav-quick-navigation-btn" id="js_N_ntes_nav_quick_navigation_btn" rel="noreferrer" target="_self">
+          <em>
+           快速导航
+           <span class="menu1">
+           </span>
+           <span class="menu2">
+           </span>
+           <span class="menu3">
+           </span>
+          </em>
+         </a>
+         <div class="ntes-quicknav-pop" id="js_N_ntes_quicknav_pop">
+          <div class="ntes-quicknav-list">
+           <div class="ntes-quicknav-content">
+            <ul class="ntes-quicknav-column ntes-quicknav-column-1">
+             <li>
+              <h3>
+               <a href="https://news.163.com">
+                新闻
+               </a>
+              </h3>
+             </li>
+             <li>
+              <a href="https://news.163.com/domestic">
+               国内
+              </a>
+             </li>
+             <li>
+              <a href="https://news.163.com/world">
+               国际
+              </a>
+             </li>
+             <li>
+              <a href="https://view.163.com">
+               评论
+              </a>
+             </li>
+             <li>
+              <a href="https://war.163.com">
+               军事
+              </a>
+             </li>
+             <li>
+              <a href="https://news.163.com/special/wangsansanhome/">
+               王三三
+              </a>
+             </li>
+            </ul>
+            <ul class="ntes-quicknav-column ntes-quicknav-column-2">
+             <li>
+              <h3>
+               <a href="https://sports.163.com">
+                体育
+               </a>
+              </h3>
+             </li>
+             <li>
+              <a href="https://sports.163.com/nba">
+               NBA
+              </a>
+             </li>
+             <li>
+              <a href="https://sports.163.com/cba">
+               CBA
+              </a>
+             </li>
+             <li>
+              <a href="https://sports.163.com/allsports">
+               综合
+              </a>
+             </li>
+             <li>
+              <a href="https://sports.163.com/zc">
+               中超
+              </a>
+             </li>
+             <li>
+              <a href="https://sports.163.com/world">
+               国际足球
+              </a>
+             </li>
+             <li>
+              <a href="https://sports.163.com/yc">
+               英超
+              </a>
+             </li>
+             <li>
+              <a href="https://sports.163.com/xj">
+               西甲
+              </a>
+             </li>
+             <li>
+              <a href="https://sports.163.com/yj">
+               意甲
+              </a>
+             </li>
+            </ul>
+            <ul class="ntes-quicknav-column ntes-quicknav-column-3">
+             <li>
+              <h3>
+               <a href="https://ent.163.com">
+                娱乐
+               </a>
+              </h3>
+             </li>
+             <li>
+              <a href="https://ent.163.com/star">
+               明星
+              </a>
+             </li>
+             <li>
+              <a href="https://ent.163.com/photo">
+               图片
+              </a>
+             </li>
+             <li>
+              <a href="https://ent.163.com/movie">
+               电影
+              </a>
+             </li>
+             <li>
+              <a href="https://ent.163.com/tv">
+               电视
+              </a>
+             </li>
+             <li>
+              <a href="https://ent.163.com/music">
+               音乐
+              </a>
+             </li>
+             <li>
+              <a href="https://ent.163.com/special/gsbjb/">
+               稿事编辑部
+              </a>
+             </li>
+             <li>
+              <a href="https://ent.163.com/special/focus_ent/">
+               娱乐FOCUS
+              </a>
+             </li>
+            </ul>
+            <ul class="ntes-quicknav-column ntes-quicknav-column-4">
+             <li>
+              <h3>
+               <a href="https://money.163.com">
+                财经
+               </a>
+              </h3>
+             </li>
+             <li>
+              <a href="https://money.163.com/stock">
+               股票
+              </a>
+             </li>
+             <li>
+              <a href="http://quotes.money.163.com/stock">
+               行情
+              </a>
+             </li>
+             <li>
+              <a href="https://money.163.com/ipo">
+               新股
+              </a>
+             </li>
+             <li>
+              <a href="https://money.163.com/finance">
+               金融
+              </a>
+             </li>
+             <li>
+              <a href="https://money.163.com/fund">
+               基金
+              </a>
+             </li>
+             <li>
+              <a href="https://biz.163.com">
+               商业
+              </a>
+             </li>
+             <li>
+              <a href="https://money.163.com/licai">
+               理财
+              </a>
+             </li>
+            </ul>
+            <ul class="ntes-quicknav-column ntes-quicknav-column-5">
+             <li>
+              <h3>
+               <a href="https://auto.163.com">
+                汽车
+               </a>
+              </h3>
+             </li>
+             <li>
+              <a href="https://auto.163.com/buy">
+               购车
+              </a>
+             </li>
+             <li>
+              <a href="https://auto.163.com/depreciate">
+               行情
+              </a>
+             </li>
+             <li>
+              <a href="http://product.auto.163.com">
+               车型库
+              </a>
+             </li>
+             <li>
+              <a href="https://auto.163.com/elec">
+               新能源
+              </a>
+             </li>
+             <li>
+              <a href="https://auto.163.com/news">
+               行业
+              </a>
+             </li>
+            </ul>
+            <ul class="ntes-quicknav-column ntes-quicknav-column-6">
+             <li>
+              <h3>
+               <a href="https://tech.163.com">
+                科技
+               </a>
+              </h3>
+             </li>
+             <li>
+              <a href="https://tech.163.com/telecom/">
+               通信
+              </a>
+             </li>
+             <li>
+              <a href="https://tech.163.com/it">
+               IT
+              </a>
+             </li>
+             <li>
+              <a href="https://tech.163.com/internet">
+               互联网
+              </a>
+             </li>
+             <li>
+              <a href="https://tech.163.com/special/chzt">
+               特别策划
+              </a>
+             </li>
+             <li>
+              <a href="https://tech.163.com/smart/">
+               网易智能
+              </a>
+             </li>
+             <li>
+              <a href="https://hea.163.com/">
+               家电
+              </a>
+             </li>
+            </ul>
+            <ul class="ntes-quicknav-column ntes-quicknav-column-7">
+             <li>
+              <h3>
+               <a href="https://fashion.163.com">
+                时尚
+               </a>
+              </h3>
+             </li>
+             <li>
+              <a href="https://baby.163.com">
+               亲子
+              </a>
+             </li>
+             <li>
+              <a href="https://fashion.163.com/art">
+               艺术
+              </a>
+             </li>
+            </ul>
+            <ul class="ntes-quicknav-column ntes-quicknav-column-8">
+             <li>
+              <h3>
+               <a href="https://mobile.163.com">
+                手机
+               </a>
+               <span>
+                /
+               </span>
+               <a href="https://digi.163.com/">
+                数码
+               </a>
+              </h3>
+             </li>
+             <li>
+              <a href="https://tech.163.com/special/ydhlw">
+               移动互联网
+              </a>
+             </li>
+             <li>
+              <a href="https://mobile.163.com/special/jqkj_list/">
+               惊奇科技
+              </a>
+             </li>
+             <li>
+              <a href="https://mobile.163.com/special/cpshi_list/">
+               易评机
+              </a>
+             </li>
+            </ul>
+            <ul class="ntes-quicknav-column ntes-quicknav-column-9">
+             <li>
+              <h3>
+               <a href="https://house.163.com">
+                房产
+               </a>
+               <span>
+                /
+               </span>
+               <a href="https://home.163.com">
+                家居
+               </a>
+              </h3>
+             </li>
+             <li>
+              <a href="https://bj.house.163.com">
+               北京房产
+              </a>
+             </li>
+             <li>
+              <a href="https://sh.house.163.com">
+               上海房产
+              </a>
+             </li>
+             <li>
+              <a href="https://gz.house.163.com">
+               广州房产
+              </a>
+             </li>
+             <li>
+              <a href="https://house.163.com/city">
+               全部分站
+              </a>
+             </li>
+             <li>
+              <a href="https://xf.house.163.com">
+               楼盘库
+              </a>
+             </li>
+             <li>
+              <a href="https://home.163.com/jiaju/">
+               家具
+              </a>
+             </li>
+             <li>
+              <a href="https://home.163.com/weiyu/">
+               卫浴
+              </a>
+             </li>
+            </ul>
+            <ul class="ntes-quicknav-column ntes-quicknav-column-10">
+             <li>
+              <h3>
+               <a href="https://travel.163.com">
+                旅游
+               </a>
+              </h3>
+             </li>
+             <li>
+              <a href="https://travel.163.com/outdoor">
+               自驾露营
+              </a>
+             </li>
+             <li>
+              <a href="https://travel.163.com/food">
+               美食
+              </a>
+             </li>
+            </ul>
+            <ul class="ntes-quicknav-column ntes-quicknav-column-11">
+             <li>
+              <h3>
+               <a href="https://edu.163.com">
+                教育
+               </a>
+              </h3>
+             </li>
+             <li>
+              <a href="https://edu.163.com/yimin">
+               移民
+              </a>
+             </li>
+             <li>
+              <a href="https://edu.163.com/liuxue">
+               留学
+              </a>
+             </li>
+             <li>
+              <a href="https://edu.163.com/en">
+               外语
+              </a>
+             </li>
+             <li>
+              <a href="https://edu.163.com/gaokao">
+               高考
+              </a>
+             </li>
+            </ul>
+            <div class="ntes-nav-sitemap">
+             <a href="https://sitemap.163.com/">
+              <i>
+              </i>
+              查看网易地图
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="c-fr">
+         <div class="c-fl" id="js_N_navLoginBefore">
+          <div class="js_loginframe ntes-nav-login ntes-nav-login-normal" id="js_N_navHighlight">
+           <a class="ntes-nav-login-title" href="https://reg.163.com/" id="js_N_nav_login_title">
+            登录
+           </a>
+           <div class="ntes-nav-loginframe-pop" id="js_N_login_wrap">
+            <!--加载登陆组件-->
+           </div>
+          </div>
+          <div class="js_N_navSelect ntes-nav-select ntes-nav-select-wide JS_NTES_LOG_FE c-fl">
+           <a class="ntes-nav-select-title ntes-nav-select-title-register" href="https://mail.163.com/register/index.htm?from=163navi®Page=163">
+            注册免费邮箱
+            <em class="ntes-nav-select-arr">
+            </em>
+           </a>
+           <div class="ntes-nav-select-pop">
+            <ul class="ntes-nav-select-list clearfix" style="width:210px;">
+             <li>
+              <a href="https://reg1.vip.163.com/newReg1/reg?from=new_topnav&amp;utm_source=new_topnav">
+               <span style="width:190px;">
+                注册VIP邮箱（特权邮箱，付费）
+               </span>
+              </a>
+             </li>
+             <li class="last JS_NTES_LOG_FE">
+              <a href="https://mail.163.com/client/dl.html?from=mail46">
+               <span style="width:190px;">
+                免费下载网易官方手机邮箱应用
+               </span>
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+         <div class="c-fl" id="js_N_navLoginAfter" style="display:none">
+          <div class="js_N_navSelect ntes-nav-select ntes-nav-logined JS_NTES_LOG_FE" id="js_N_logined_warp">
+           <a class="ntes-nav-select-title ntes-nav-logined-userinfo">
+            <span class="ntes-nav-logined-username" id="js_N_navUsername">
+            </span>
+            <em class="ntes-nav-select-arr">
+            </em>
+           </a>
+           <div class="ntes-nav-select-pop" id="js_login_suggest_wrap">
+            <ul class="ntes-nav-select-list clearfix" id="js_logined_suggest">
+            </ul>
+           </div>
+          </div>
+          <a class="ntes-nav-entry-wide c-fl" id="js_N_navLogout" target="_self">
+           安全退出
+          </a>
+         </div>
+        </div>
+        <ul class="ntes-nav-inside">
+         <li>
+          <div class="js_N_navSelect ntes-nav-select c-fl">
+           <a class="ntes-nav-mobile-title ntes-nav-entry-bgblack" href="https://www.163.com/newsapp/#f=163nav">
+            <em class="ntes-nav-entry-mobile">
+             移动端
+            </em>
+           </a>
+           <div class="qrcode-img">
+            <a href="https://www.163.com/newsapp/#f=163nav">
+             <img src="//static.ws.126.net/f2e/include/common_nav/images/topapp.jpg"/>
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="js_N_navSelect ntes-nav-select c-fl">
+           <a class="ntes-nav-select-title ntes-nav-select-title-huatian ntes-nav-entry-bgblack" href="https://open.163.com/#ftopnav0" id="js_love_url">
+            <em class="ntes-nav-entry-huatian">
+             网易公开课
+            </em>
+            <em class="ntes-nav-select-arr">
+            </em>
+            <span class="ntes-nav-msg">
+             <em class="ntes-nav-msg-num">
+             </em>
+            </span>
+           </a>
+           <div class="ntes-nav-select-pop ntes-nav-select-pop-huatian">
+            <ul class="ntes-nav-select-list clearfix">
+             <li>
+              <a href="https://open.163.com/ted/#ftopnav1">
+               <span>
+                TED
+               </span>
+              </a>
+             </li>
+             <li>
+              <a href="https://open.163.com/cuvocw/#ftopnav2">
+               <span>
+                中国大学视频公开课
+               </span>
+              </a>
+             </li>
+             <li>
+              <a href="https://open.163.com/ocw/#ftopnav3">
+               <span>
+                国际名校公开课
+               </span>
+              </a>
+             </li>
+             <li>
+              <a href="https://open.163.com/appreciation/#ftopnav4">
+               <span>
+                赏课·纪录片
+               </span>
+              </a>
+             </li>
+             <li>
+              <a href="https://vip.open.163.com/#ftopnav5">
+               <span>
+                付费精品课程
+               </span>
+              </a>
+             </li>
+             <li>
+              <a href="https://open.163.com/special/School/beida.html#ftopnav6">
+               <span>
+                北京大学公开课
+               </span>
+              </a>
+             </li>
+             <li class="last">
+              <a href="https://open.163.com/newview/movie/courseintro?newurl=ME7HSJR07#ftopnav7">
+               <span>
+                英语课程学习
+               </span>
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="js_N_navSelect ntes-nav-select c-fl">
+           <a class="ntes-nav-select-title ntes-nav-select-title-lofter ntes-nav-entry-bgblack" href="https://you.163.com/?from=web_fc_menhu_xinrukou_1" id="js_lofter_icon_url">
+            <em class="ntes-nav-entry-lofter">
+             网易严选
+            </em>
+            <em class="ntes-nav-select-arr">
+            </em>
+            <span class="ntes-nav-msg" id="js_N_navLofterMsg">
+             <em class="ntes-nav-msg-num">
+             </em>
+            </span>
+           </a>
+           <div class="ntes-nav-select-pop ntes-nav-select-pop-lofter">
+            <ul class="ntes-nav-select-list clearfix" id="js_lofter_pop_url">
+             <li>
+              <a href="https://act.you.163.com/act/pub/ABuyLQKNmKmK.html?from=out_ynzy_xinrukou_2">
+               <span>
+                新人特价
+               </span>
+              </a>
+             </li>
+             <li>
+              <a href="https://you.163.com/topic/v1/pub/Pew1KBH9Au.html?from=out_ynzy_xinrukou_3">
+               <span>
+                9.9专区
+               </span>
+              </a>
+             </li>
+             <li>
+              <a href="https://you.163.com/item/newItemRank?from=out_ynzy_xinrukou_4">
+               <span>
+                新品热卖
+               </span>
+              </a>
+             </li>
+             <li>
+              <a href="https://you.163.com/item/recommend?from=out_ynzy_xinrukou_5">
+               <span>
+                人气好物
+               </span>
+              </a>
+             </li>
+             <li>
+              <a href="https://you.163.com/item/list?categoryId=1005000&amp;from=out_ynzy_xinrukou_7">
+               <span>
+                居家生活
+               </span>
+              </a>
+             </li>
+             <li>
+              <a href="https://you.163.com/item/list?categoryId=1010000&amp;from=out_ynzy_xinrukou_8">
+               <span>
+                服饰鞋包
+               </span>
+              </a>
+             </li>
+             <li>
+              <a href="https://you.163.com/item/list?categoryId=1011000&amp;from=out_ynzy_xinrukou_9">
+               <span>
+                母婴亲子
+               </span>
+              </a>
+             </li>
+             <li class="last">
+              <a href="https://you.163.com/item/list?categoryId=1005002&amp;from=out_ynzy_xinrukou_10">
+               <span>
+                美食酒水
+               </span>
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="js_N_navSelect ntes-nav-select c-fl">
+           <a class="ntes-nav-select-title ntes-nav-select-title-money ntes-nav-entry-bgblack" href="https://ecard.163.com/">
+            <em class="ntes-nav-entry-money">
+             支付
+            </em>
+            <em class="ntes-nav-select-arr">
+            </em>
+           </a>
+           <div class="ntes-nav-select-pop ntes-nav-select-pop-temp">
+            <ul class="ntes-nav-select-list clearfix">
+             <li>
+              <a href="https://ecard.163.com/#f=topnav">
+               <span>
+                一卡通充值
+               </span>
+              </a>
+             </li>
+             <li>
+              <a href="https://ecard.163.com/script/index#f=topnav">
+               <span>
+                一卡通购买
+               </span>
+              </a>
+             </li>
+             <li>
+              <a href="https://epay.163.com/">
+               <span>
+                我的网易支付
+               </span>
+              </a>
+             </li>
+             <li>
+              <a href="https://3c.163.com/?from=wangyimenhu16">
+               <span>
+                网易智造
+               </span>
+              </a>
+             </li>
+             <li class="last">
+              <a href="https://globalpay.163.com/home">
+               <span>
+                网易跨境支付
+               </span>
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="js_N_navSelect ntes-nav-select c-fl">
+           <a class="ntes-nav-select-title ntes-nav-select-title-mail ntes-nav-entry-bgblack" id="js_mail_url" rel="noreferrer">
+            <em class="ntes-nav-entry-mail">
+             邮箱
+            </em>
+            <em class="ntes-nav-select-arr">
+            </em>
+            <span class="ntes-nav-msg" id="js_N_navMailMsg">
+             <em class="ntes-nav-msg-num" id="js_N_navMailMsgNum">
+             </em>
+            </span>
+           </a>
+           <div class="ntes-nav-select-pop ntes-nav-select-pop-mail">
+            <ul class="ntes-nav-select-list clearfix">
+             <li>
+              <a href="https://email.163.com/#f=topnav">
+               <span>
+                免费邮箱
+               </span>
+              </a>
+             </li>
+             <li>
+              <a href="https://vipmail.163.com/#f=topnav">
+               <span>
+                VIP邮箱
+               </span>
+              </a>
+             </li>
+             <li>
+              <a href="https://qiye.163.com/?from=NetEase163top">
+               <span>
+                企业邮箱
+               </span>
+              </a>
+             </li>
+             <li>
+              <a href="https://mail.163.com/register/index.htm?from=ntes_nav®Page=163">
+               <span>
+                免费注册
+               </span>
+              </a>
+             </li>
+             <li class="last">
+              <a href="https://mail.163.com/dashi/dlpro.html?from=mail46">
+               <span>
+                客户端下载
+               </span>
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+    <script src="https://static.ws.126.net/163/f2e/commonnav2019/js/commonnav_headjs-173660716d.js">
+    </script>
+   </link>
+  </div>
+  <div class="top-banner" id="top-banner" style="display: none">
+   <div class="wrapper top-banner" style="text-align:left;">
+    <div class="topadContainer" onmouseout="javscript:document.getElementById('topadShade').className='';">
+     <span id="topadShade">
+     </span>
+     <a class="mutilTopad first" href="http://tie.163.com/gt/17/1130/18/D4GRPPK100308A4D.html" onmouseover="javscript:document.getElementById('topadShade').className='topadShade';" target="_blank">
+      <img src="http://cms-bucket.nosdn.127.net/aa96a74717f140ba850bd07845a34b1120171130212440.jpeg">
+       <div class="ad_title" onmouseout="javscript:this.className='ad_title';" onmouseover="javscript:this.className='ad_title_hover';">
+        <span class="ad_category">
+         跟贴神评组:
+        </span>
+        <span class="ad_title_detail">
+         最奇葩动物园！全靠家禽撑场子
+        </span>
+       </div>
+      </img>
+     </a>
+     <a class="mutilTopad" href="http://tie.163.com/gt/17/0926/17/CV9B8GEE00308A50.html" onmouseover="javscript:document.getElementById('topadShade').className='topadShade';" target="_blank">
+      <img src="http://cms-bucket.nosdn.127.net/9869b0cabebc4b6191c6a82504fc284120170927151935.jpeg"/>
+      <div class="ad_title" onmouseout="javscript:this.className='ad_title';" onmouseover="javscript:this.className='ad_title_hover';">
+       <span class="ad_category">
+        跟贴故事会:
+       </span>
+       <span class="ad_title_detail">
+        写下旅途中被坑的经历
+       </span>
+      </div>
+     </a>
+     <a class="mutilTopad" href="http://tie.163.com/gt/16/1224/09/C91RO9RC00308A4U.html" onmouseover="javscript:document.getElementById('topadShade').className='topadShade';" target="_blank">
+      <img src="http://img4.cache.netease.com/tie/2016/12/26/210.jpg"/>
+      <div class="ad_title" onmouseout="javscript:this.className='ad_title';" onmouseover="javscript:this.className='ad_title_hover';">
+       <span class="ad_category">
+        不正常人类:
+       </span>
+       <span class="ad_title_detail">
+        他说自己不是一个人
+       </span>
+      </div>
+     </a>
+     <a class="mutilTopad last" href="http://tie.163.com/gt/17/0209/10/CCQUSTL600308A4S.html" onmouseover="javscript:document.getElementById('topadShade').className='topadShade';" target="_blank">
+      <img src="http://img4.cache.netease.com/tie/2017/2/20/210.jpg"/>
+      <div class="ad_title" onmouseout="javscript:this.className='ad_title';" onmouseover="javscript:this.className='ad_title_hover';">
+       <span class="ad_category">
+        新套路:
+       </span>
+       <span class="ad_title_detail">
+        这样开车非常难以描述
+       </span>
+      </div>
+     </a>
+    </div>
+    <div class="topadMore">
+     <a class="first" href="http://www.kaola.com/activity/detail/15809.shtml?tag=8d0d70b5a5164e787fecedd824645991&amp;__da_2hl5Ut_jNWGenfsvc" target="_blank">
+      进口美妆9.9元&gt;&gt;
+     </a>
+     <a href="http://www.kaola.com/activity/detail/10194.shtml?tag=8d0d70b5a5164e787fecedd824645991&amp;__da_Jtw4ur_Ptyx6QEu2a" target="_blank">
+      一键领取1088元&gt;&gt;
+     </a>
+    </div>
+   </div>
+   <style>
+    .top-banner {  margin-top: 20px;}.topadContainer {  position: relative;  text-align: left;  width: 846px;  float: left;  zoom:1;height: 65px;  overflow: hidden;}.topadShade {  position: absolute;  width: 846px;  height: 65px;  background: #000;  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(opacity=50);  filter: alpha(opacity=50);  -moz-opacity: .5;  opacity: .5;  z-index: 999;}.top-banner a.first {  margin-left: 0;}.top-banner a.last {  margin-right: 0;}.mutilTopad {  margin: 0 1px;  position: relative;  float: left;  text-decoration: none;}.mutilTopad img {  width: 210px;  height: 65px;}.mutilTopad .ad_title {  position: absolute;  bottom: 0;  bottom: -1px;  left: 0;  left: 1px;  height: 22px;  width: 210px;  text-align: center;  background: #000;  line-height: 22px;  display: block;  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(opacity=80);  filter: alpha(opacity=80);  -moz-opacity: .8;  opacity: .8;  font-size: 12px;}.mutilTopad .ad_title_hover {  position: absolute;  color: white;  bottom: 0;  bottom: -1px;  left: 0;  left: 1px;  height: 22px;  width: 210px;  text-align: center;  background: #000;  line-height: 22px;  display: block;  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(opacity=65);  filter: alpha(opacity=65);  -moz-opacity: .65;  opacity: .65;  font-size: 12px;}a.mutilTopad:hover {  z-index: 1000;  position: relative;  text-decoration: none;  color: white;}.topadMore {  margin-left: 847px;  padding-top: 1px;}.topadMore a,.topadMore a:visited {  display: block;  line-height: 31px;  font-size: 12px;  text-align: center;  background-color: #f4f4f4;  color: #585858;}.topadMore a:hover {  background-color: #e5e5e5;  color: #585858;  text-decoration: none;}.topadMore .first {  margin-bottom: 2px;}.ad_title .ad_category {  color: #fdb32b;}.ad_title_hover .ad_category {  color: #fdb32b;}.ad_title .ad_title_detail,.ad_title_hover .ad_title_detail {  color: white;}
+   </style>
+  </div>
+  <div class="wrapper orig-post" id="essay-title">
+  </div>
+  <div class="wrapper">
+   <div class="main-bg clearfix">
+    <div class="main-bdy" id="tie-main">
+    </div>
+    <div class="side-bar">
+     <div id="side-user-panel">
+     </div>
+     <div class="inner" id="ad-inner" style="display: none">
+      <div id="gt_float_ad1">
+      </div>
+      <div class="s-m1" id="js-m1">
+       <iframe border="0" frameborder="0" height="250" marginheight="0" marginwidth="0" scrolling="no" src="https://g.163.com/r?site=netease&amp;affiliate=163&amp;cat=other&amp;type=logo300x250&amp;location=1" width="300">
+       </iframe>
+      </div>
+      <div class="s-m2" id="js-m2" style="padding-top: 8px;">
+       <!--跟帖右侧M2-->
+       <iframe border="0" frameborder="0" height="250" marginheight="0" marginwidth="0" scrolling="no" src="https://g.163.com/r?site=netease&amp;affiliate=163&amp;cat=other&amp;type=logo300x250&amp;location=2" width="300">
+       </iframe>
+      </div>
+      <div class="tie-rank" id="side-related-news">
+      </div>
+     </div>
+     <div id="gt_float_ad2" style="display: none">
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="side-fixed">
+  </div>
+  <div class="wrapper copyright">
+   <p>
+    <a href="//corp.163.com/">
+     About NetEase
+    </a>
+    -
+    <a href="//gb.corp.163.com/gb/about/overview.html">
+     公司简介
+    </a>
+    -
+    <a href="//gb.corp.163.com/gb/contactus.html">
+     联系方法
+    </a>
+    -
+    <a href="//corp.163.com/gb/job/job.html">
+     招聘信息
+    </a>
+    -
+    <a href="//gb.corp.163.com/gb/cs.html">
+     客户服务
+    </a>
+    -
+    <a href="//gb.corp.163.com/gb/legal.html">
+     相关法律
+    </a>
+    -
+    <a href="//emarketing.biz.163.com/">
+     网络营销
+    </a>
+    -
+    <a href="//help.163.com/">
+     帮助中心
+    </a>
+   </p>
+   <p>
+    网易公司版权所有
+    <br/>
+    <em>
+     ©1997-2024
+    </em>
+   </p>
+  </div>
+  <script type="text/javascript">
+   /* eslint-disable */
+    (function() {
+      window.__tie__ = {
+        thread: {"docId":"J0C9ASJE000189FH","createTime":"2024-04-22 08:57:57","modifyTime":"2024-04-22 13:49:57","title":"复苏的母亲河丨让黄河永远造福中华民族","url":"https://www.163.com/news/article/J0C9ASJE000189FH.html","status":{"against":"on","app":"on","audio":"off","joincount":"on","label":"on","web":"on"},"rcount":54,"tcount":9,"cmtVote":136,"cmtAgainst":0,"vote":47,"against":0,"channelId":"0001","boardId":"news2_bbs","isAudit":true,"audit":true,"pdocId":"J0C9ASJE000189FH","cmtCount":145,"businessId":"J0C9ASJE000189FH","businessType":1,"extInfo":"{\"aduitLevel\":21,\"auditArea\":2,\"postSwitch\":2047,\"voteType\":\"default\"}","sDK_VERSION":0,"auditStatus":{"app":false,"needcheck":false,"web":false}},
+        isAuth: false
+      }
+      
+      window.projectId = 'NTM-KUMNYC7C-5'
+
+      var adM1 = document.getElementById('js-m1');
+      var adM2 = document.getElementById('js-m2');
+
+      window.__ad__ = {
+        adM1: adM1.innerHTML,
+        adM2: adM2.innerHTML
+      }
+    })();
+  </script>
+  <script type="text/javascript">
+   var topBanner = document.getElementById('top-banner');
+      var adInner = document.getElementById('ad-inner');
+      var adFloat = document.getElementById('gt_float_ad2');
+      if ('true' === 'false') {
+        topBanner.style.display = 'block';
+        adInner.style.display = 'block';
+        adFloat.style.display = 'block';
+      }
+  </script>
+  <script type="text/javascript">
+   function neteaseTracker() {}
+  </script>
+  <script type="text/javascript">
+   //<![CDATA[
+      var re = 'https://www.163.com/news/article/J0C9ASJE000189FH.html'.match(/\/\/([\w\d]+)\./)
+      var _ntes_nacc = re && re[1] || 'news';
+
+      if ("v" == _ntes_nacc) {
+        _ntes_nacc = '163v';
+      } else if ("home" == _ntes_nacc || /^\w+\.house$/.test(_ntes_nacc)) {
+        _ntes_nacc = 'house';
+      } else if ("money" == _ntes_nacc || /^\w+\.money$/.test(_ntes_nacc)) {
+        _ntes_nacc = 'stock';
+      } else if ("play" == _ntes_nacc || /^\w+\.play$/.test(_ntes_nacc)) {
+        _ntes_nacc = 'game';
+      } else if ("shoucang" == _ntes_nacc || /^\w+\.shoucang$/.test(_ntes_nacc)) {
+        _ntes_nacc = 'lady';
+      }
+
+      neteaseTracker();
+      //]]>
+  </script>
+  <script type="text/javascript">
+   (function (w, d, s, n) {
+        var f = d.getElementsByTagName(s)[0], k = d.createElement(s); k.async = true;
+        k.src = '//static.ws.126.net/163/frontend/antnest/' + n + '.js';
+        f.parentNode.insertBefore(k, f);
+      })(window, document, 'script', 'NTM-KUMNYC7C-5');
+  </script>
+  <script src="https://acstatic-dun.126.net/tool.min.js" type="text/javascript">
+  </script>
+  <script>
+   var wm = null;
+      // 只需初始化一次
+      if (initWatchman) {
+        initWatchman({
+          productNumber: 'YD00157343455660',
+          onload: function (instance) {
+            wm = instance
+          },
+          onerror: function (error) {
+            console.log(error)
+            Raven.captureException('ReferenceError: initWatchman init error!')
+          }
+        });
+      } else {
+        // initWatchman 不存在上报sentry
+        Raven.captureException('ReferenceError: initWatchman is not defined!')
+      }
+  </script>
+  <style type="text/css">
+   .ntes-nav-wza,.ntes-nav-wzapage,.ntes-nav-wza-show{float: left;padding-left: 3px;margin-left: 2px;margin-right:10px;position: relative;}
+.ntes-nav-wza,.ntes-nav-wzapage{display: none;}
+.ntes-nav-wza-show{display: block;}
+/*.ntes-nav-wza:before{background: url(https://static.ws.126.net/163/f2e/www/index20170701/images/shilaohua_v2.png) -1px 0px;width: 14px;height: 12px;content: "";position: absolute;left: 2px;top: 16px;}*/
+  </style>
+  <a class="ntes-nav-wza" href="javascript:void(0)" id="cniil_wza" target="_self">
+   无障碍浏览
+  </a>
+  <a class="ntes-nav-wzapage" href="javascript:void(0)" id="js_gowza" target="_self">
+   进入关怀版
+  </a>
+  <script type="text/javascript">
+   (function(){
+        function wzaInit(){
+            var wza_link = document.getElementById("cniil_wza");
+            var gowza_link = document.getElementById("js_gowza");
+            var nav_left = document.getElementById("js_N_nav_left");
+            var ua = navigator.userAgent.toLowerCase();
+            var wzaUrl = document.getElementsByTagName("body")[0].getAttribute("aria-url");
+            if(!/ipad/i.test(ua) && wza_link && nav_left){
+                nav_left.appendChild(wza_link);
+                wza_link.className = "ntes-nav-wza-show";
+            }
+            if(!/ipad/i.test(ua) && gowza_link && nav_left && wzaUrl){
+                nav_left.appendChild(gowza_link);	
+                gowza_link.setAttribute("href",wzaUrl);
+                gowza_link.className = "ntes-nav-wza-show";
+            }
+            wza_link.onclick = function () {
+                if(!window.ntm || !window.ntm.projectId)return;
+                var param = {
+                    "val_act": "wzanavclick",
+                    "projectid": window.ntm.projectId
+                }
+                window.NTESAntAnalysis.sendData(param);  
+            }
+            gowza_link.onclick = function () {
+                if(!window.ntm || !window.ntm.projectId)return;
+                var param = {
+                    "val_act": "wzapageclick",
+                    "projectid": window.ntm.projectId
+                }
+                window.NTESAntAnalysis.sendData(param);  
+            }
+            if ( window.addEventListener ) {
+                window.addEventListener("load", function(){wzaReport();}, false);
+            } else if ( window.attachEvent ) {
+                window.attachEvent("onload", function(){wzaReport();});
+            }
+        }
+        
+        function wzaReport(){
+            setTimeout(function(){
+                if(!window.ntm || !window.ntm.projectId || document.getElementsByTagName('body')[0].className.indexOf("ariabodytopfiexed") < 0)return;
+                var param = {
+                    "val_act": "wza-default-open",
+                    "projectid": window.ntm.projectId
+                }
+                window.NTESAntAnalysis.sendData(param); 
+            },3000);
+        }
+        wzaInit();
+    })();
+  </script>
+  <script charset="utf-8" src="https://static.ws.126.net/163/f2e/common/wza230620/aria.js?appid=a6655141bab6921b58446b4b806b9fbf" type="text/javascript">
+  </script>
+  <script src="//static.ws.126.net/163/f2e/tie/pc_detail/manifest.231dd64c989b7a248b08.js" type="text/javascript">
+  </script>
+  <script src="//static.ws.126.net/163/f2e/tie/pc_detail/vendor.e51927151b1d545b3ea1.js" type="text/javascript">
+  </script>
+  <script src="//static.ws.126.net/163/f2e/tie/pc_detail/tie.23b802cfc19e24c18bf1.js" type="text/javascript">
+  </script>
+ </body>
+</html>
